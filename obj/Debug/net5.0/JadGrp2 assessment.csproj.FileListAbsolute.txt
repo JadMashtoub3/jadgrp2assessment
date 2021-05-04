@@ -1,0 +1,16 @@
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.exe
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.deps.json
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.runtimeconfig.json
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.runtimeconfig.dev.json
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.dll
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\ref\JadGrp2 assessment.dll
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\bin\Debug\net5.0\JadGrp2 assessment.pdb
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.csprojAssemblyReference.cache
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.AssemblyInfoInputs.cache
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.AssemblyInfo.cs
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.csproj.CoreCompileInputs.cache
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.dll
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\ref\JadGrp2 assessment.dll
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.pdb
+C:\Users\103596586\OneDrive - Swinburne University\JadGrp2 assessment\obj\Debug\net5.0\JadGrp2 assessment.genruntimeconfig.cache
